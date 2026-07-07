@@ -7,7 +7,7 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import StatesGroup, State
 
 
-API_TOKEN = "8321701093:AAEwEmd7gy7iE_ThpT2uYsDkbjqTxwMnhDM"
+API_TOKEN = "токен"
 
 router = Router()
 
